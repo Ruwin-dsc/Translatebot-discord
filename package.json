@@ -1,0 +1,16 @@
+{
+  "name": "roleup-detection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@iamtraction/google-translate": "^2.0.1",
+    "discord.js": "^13.15.0",
+    "quick.db": "^7.1.3"
+  }
+}
